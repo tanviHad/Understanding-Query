@@ -15,7 +15,7 @@ Four ways to use this:
 will need google customized search api key and your google cx.
 will also need an openai api.key.
 
-## INSTALLATION:
+## INstallation:
 1.	clone the repository
 2.	pip3 install -r requirements.txt
 3.	add your openai.api_key either as an evironment var or directly in utilityV2.py
