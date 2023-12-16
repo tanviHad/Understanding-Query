@@ -20,8 +20,12 @@ will also need an openai api.key.
 2.	pip3 install -r requirements.txt
 3.	add your openai.api_key either as an evironment var or directly in utilityV2.py
 4.	add your google credentials either as environment vars or directly in google_search_concurrent.py
+
 to test, try: python3 search_service.py
+
 you should see:
+
 Yes?
+
 To run: python3 main.py
 The endpoint returns json with source, url, response, and credibility keys.
