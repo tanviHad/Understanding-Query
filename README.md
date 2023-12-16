@@ -1,5 +1,5 @@
 # Understanding-Query
-## LLMSearch features:
+### LLMSearch features:
 1.	Uses an LLM to rewrite the query for better search results.
 2.	Uses the google customized search API to collect urls.
 3.	Filters and prioritizes urls by local whitelist/unknown/blacklist, and by past history of usefulness
@@ -15,7 +15,7 @@ Four ways to use this:
 will need google customized search api key and your google cx.
 will also need an openai api.key.
 
-## INstallation:
+### Installation:
 1.	clone the repository
 2.	pip3 install -r requirements.txt
 3.	add your openai.api_key either as an evironment var or directly in utilityV2.py
